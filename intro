@@ -7,3 +7,4 @@ $ pwd
 /Users/mbbroberg/Develop/dotfiles
 # Be sure to use an absolute path
 $ ln -nfs /Users/mbbroberg/Develop/.gitconfig /Users/mbbroberg/.gitconfig
+http://dotfiles.github.io/
