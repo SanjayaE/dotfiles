@@ -1,0 +1,9 @@
+$ cd dotfiles/
+# Be sure to adjust the user to your user, which you can
+# find in the path or by running the following: 
+$ echo $USER
+mbbroberg
+$ pwd
+/Users/mbbroberg/Develop/dotfiles
+# Be sure to use an absolute path
+$ ln -nfs /Users/mbbroberg/Develop/.gitconfig /Users/mbbroberg/.gitconfig
