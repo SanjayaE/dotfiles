@@ -1,0 +1,1 @@
+/Users/Dushantha.Ekanayake/.local/share/omf/themes/bobthefish/fish_prompt.fish
