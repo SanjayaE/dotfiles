@@ -1,0 +1,11 @@
+{
+
+  
+  "terminal.integrated.shell.osx": "/usr/local/bin/pwsh",
+"terminal.integrated.shellArgs.osx": [],
+"workbench.colorTheme": "Ayu Mirage",
+"editor.minimap.enabled": false,
+"[json]": {
+  "editor.defaultFormatter": "vscode.json-language-features"
+}
+}
